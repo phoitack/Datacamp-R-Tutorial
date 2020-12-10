@@ -1,3 +1,5 @@
+## Exploring and Visualizing Time Series in R
+
 # Read the data from Excel into R
 mydata <- read_excel("exercise1.xlsx")
 
