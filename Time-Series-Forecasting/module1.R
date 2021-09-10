@@ -10,7 +10,7 @@ head(mydata)
 myts <- ts(data[,2:4], start = c(1981,1), frequency = 4)
 
 
-## -------------------------------------------------------------
+## ----------------------------------------------------------------------------
 
 # Plot the data with facetting
 autoplot(myts, facets = TRUE)
